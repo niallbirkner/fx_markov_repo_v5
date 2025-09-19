@@ -1,0 +1,11 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# Logs, cache, Streamlit
+logs/
+.streamlit/
+.cache/
